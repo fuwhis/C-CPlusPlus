@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1514179665 source:c:\users\quy nguyen\desktop\c++\key_press_detected\main.cpp
+	<iostream>
+	<conio.h>
+
